@@ -38,5 +38,5 @@ Contributions are welcome! Please fork the project and submit a pull request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - can.mehmetmisin@gmail.com
+Mehmet Can - can.mehmetmisin@gmail.com
 
