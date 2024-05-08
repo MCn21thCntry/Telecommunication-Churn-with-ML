@@ -1,7 +1,3 @@
-Here's a redesigned version of the README for your telecommunication churn prediction project, inspired by the style of the 'perfplot' README:
-
----
-
 ![Telecommunication Churn Prediction](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*8Iu_eymr6eR-YuQw) 
 
 
@@ -9,7 +5,7 @@ Here's a redesigned version of the README for your telecommunication churn predi
 This project utilizes machine learning to predict churn rates in the telecommunications industry, providing insights to retain customers effectively.
 
 ## Visual Overview
-![Model Performance](plot-url)  <!-- Replace 'plot-url' with the URL to an image of a model performance plot -->
+![Model Performance](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm-stats.me%2Ftelecom-churn-analysis-prediction-dashboard%2F&psig=AOvVaw3qCdKZOVU3TnliOVkVagZ4&ust=1715290326096000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCN5cqA_4UDFQAAAAAdAAAAABAX)
 
 ## Installation
 ```bash
@@ -42,5 +38,5 @@ Contributions are welcome! Please fork the project and submit a pull request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - your.email@example.com
+Your Name - can.mehmetmisin@gmail.com
 
