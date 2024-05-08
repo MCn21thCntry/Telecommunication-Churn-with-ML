@@ -2,7 +2,7 @@ Here's a redesigned version of the README for your telecommunication churn predi
 
 ---
 
-![Telecommunication Churn Prediction]([banner-url](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*8Iu_eymr6eR-YuQw)) 
+![Telecommunication Churn Prediction](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*8Iu_eymr6eR-YuQw) 
 
 
 ## Introduction
