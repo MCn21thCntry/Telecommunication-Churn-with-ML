@@ -5,7 +5,7 @@
 This project utilizes machine learning to predict churn rates in the telecommunications industry, providing insights to retain customers effectively.
 
 ## Visual Overview
-![Model Performance](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm-stats.me%2Ftelecom-churn-analysis-prediction-dashboard%2F&psig=AOvVaw3qCdKZOVU3TnliOVkVagZ4&ust=1715290326096000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCN5cqA_4UDFQAAAAAdAAAAABAX)
+![Model Performance](https://m-stats.me/wp-content/uploads/2023/10/Telecom-Churn-Analysis-Dashboard-prediction-tab-1.png)
 
 ## Installation
 ```bash
